@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/EvolveGames/RealisticFPSController/Scenes/DemoScene.unity
+    guid: ab0b46e2e44b5d14f99aff193b77d1c2
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 978501b8752a93a428b12128a9d24eb1
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 4dcb52040f6420a4babc3244e6606159
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: faab97cc656eb2148950fa4baf6a62e0
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: e4802827b412f4142a976302c995b4bf
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: a3c6d177bd8ae234b895cc5a7dd2c48a
+  m_configObjects: {}
